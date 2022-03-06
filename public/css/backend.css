@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap);
+body.login {
+  background-color: white;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body.login div#login form#loginform {
+  border-radius: 5px;
+}
+
+.login h1 a {
+  background-image: url("../images//global/logo_saferwood_2x.jpg");
+  background-size: contain;
+  background-position: center top;
+  background-repeat: no-repeat;
+  width: 300px;
+}
+
+/*# sourceMappingURL=backend.css.map*/
